@@ -42,8 +42,8 @@
 * [ACM刷题之-POJ-1021(2D-Nim)](https://blog.taohuawu.club/POJ-1021)
 * [hadoop平台wordcount程序的python实现](https://blog.taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://blog.taohuawu.club/POJ-3662)
-* [Ubuntu下通过PPA仓库安装JDK](https://blog.taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://blog.taohuawu.club/POJ-1191)
+* [Ubuntu下通过PPA仓库安装JDK](https://blog.taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 * [ACM刷题之-POJ-1002(487-3279)](https://blog.taohuawu.club/POJ-1002)
 * [java之hashtable和hashmap](https://blog.taohuawu.club/java-hashmap-hashtable)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://blog.taohuawu.club/POJ-1193)
@@ -56,6 +56,7 @@
 
 ### 热议
 
+* [关于我](https://blog.taohuawu.club/about)
 * [ACM刷题之-POJ-3749(破译密码)](https://blog.taohuawu.club/POJ-3749)
 * [ACM刷题之-POJ-1185(炮兵阵地)](https://blog.taohuawu.club/POJ-1185)
 * [ACM刷题之-POJ-1192(最优连通子集)](https://blog.taohuawu.club/POJ-1192)
