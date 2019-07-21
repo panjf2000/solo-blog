@@ -33,6 +33,7 @@
 
 ### 热门
 
+* [关于我](https://blog.taohuawu.club/about)
 * [hadoop下基于mapreduce实现pagerank算法](https://blog.taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://blog.taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://blog.taohuawu.club/kmeans-algorithm-via-mapreduce)
@@ -42,8 +43,8 @@
 * [ACM刷题之-POJ-1021(2D-Nim)](https://blog.taohuawu.club/POJ-1021)
 * [hadoop平台wordcount程序的python实现](https://blog.taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://blog.taohuawu.club/POJ-3662)
-* [ACM刷题之-POJ-1191(棋盘分割)](https://blog.taohuawu.club/POJ-1191)
 * [Ubuntu下通过PPA仓库安装JDK](https://blog.taohuawu.club/install-jdk-via-ppa-in-ubuntu)
+* [ACM刷题之-POJ-1191(棋盘分割)](https://blog.taohuawu.club/POJ-1191)
 * [ACM刷题之-POJ-1002(487-3279)](https://blog.taohuawu.club/POJ-1002)
 * [java之hashtable和hashmap](https://blog.taohuawu.club/java-hashmap-hashtable)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://blog.taohuawu.club/POJ-1193)
@@ -52,11 +53,9 @@
 * [ACM刷题之-POJ-3333(Co-workers from Hell)](https://blog.taohuawu.club/co-workers-from-hell)
 * [ACM刷题之-POJ-1061(青蛙的约会)](https://blog.taohuawu.club/POJ-1061)
 * [ACM刷题之-2015微软编程之美资格赛](https://blog.taohuawu.club/microsoft-programming-venues-problems)
-* [ACM刷题之-POJ-1014(Dividing)](https://blog.taohuawu.club/POJ-1014)
 
 ### 热议
 
-* [关于我](https://blog.taohuawu.club/about)
 * [ACM刷题之-POJ-3749(破译密码)](https://blog.taohuawu.club/POJ-3749)
 * [ACM刷题之-POJ-1185(炮兵阵地)](https://blog.taohuawu.club/POJ-1185)
 * [ACM刷题之-POJ-1192(最优连通子集)](https://blog.taohuawu.club/POJ-1192)
@@ -64,6 +63,7 @@
 * [ACM刷题之-POJ-3006(Dirichlet's Theorem on Arithmetic Progre)](https://blog.taohuawu.club/POJ-3006)
 * [ACM刷题之-POJ-2192(Zipper)](https://blog.taohuawu.club/POJ-2192)
 * [ACM刷题之-POJ-1396(Simple Arithmetics)](https://blog.taohuawu.club/POJ-1396)
+* [ACM刷题之-POJ-1014(Dividing)](https://blog.taohuawu.club/POJ-1014)
 
 ---
 
