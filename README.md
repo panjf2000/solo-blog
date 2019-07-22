@@ -20,7 +20,7 @@
 * [Java I/O模型从BIO到NIO和Reactor模式解析](https://blog.taohuawu.club/java-nio)
 * [Mac开发系列之python多版本和环境管理（pyenv和virtualenv安装配置使用）](https://blog.taohuawu.club/management-multi-pythons)
 * [周杰伦的《烟花易冷》和《洛阳伽蓝记》的前世今生](https://blog.taohuawu.club/yan-hua-yi-leng)
-* [Goroutine并发调度模型深度解析之手撸一个高性能协程池](https://blog.taohuawu.club/high-performance-implementation-of-goroutine-pool)
+* [Goroutine并发调度模型深度解析之手撸一个协程池](https://blog.taohuawu.club/high-performance-implementation-of-goroutine-pool)
 * [tornado配合celery及rabbitmq实现web request异步非阻塞](https://blog.taohuawu.club/python-tornado-rabbitmq-asynchronous-non-blocking)
 * [深入golang之---goroutine并发控制与通信](https://blog.taohuawu.club/goroutine-concurrency-control-and-communication)
 * [协同过滤Item-based算法实现电影推荐系统](https://blog.taohuawu.club/item-based-movie-recommendation)
@@ -33,7 +33,7 @@
 
 ### 热门
 
-* [关于我](https://blog.taohuawu.club/about)
+* [关于](https://blog.taohuawu.club/about)
 * [hadoop下基于mapreduce实现pagerank算法](https://blog.taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://blog.taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://blog.taohuawu.club/kmeans-algorithm-via-mapreduce)
