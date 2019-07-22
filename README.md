@@ -34,11 +34,12 @@
 ### 热门
 
 * [关于](https://blog.taohuawu.club/about)
+* [java之hashtable和hashmap](https://blog.taohuawu.club/java-hashmap-hashtable)
+* [python深坑之迭代器和生成器](https://blog.taohuawu.club/python-iterator-generator)
 * [hadoop下基于mapreduce实现pagerank算法](https://blog.taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://blog.taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://blog.taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [网络爬虫详解与python实现](https://blog.taohuawu.club/introduction-of-web-spider-by-python)
-* [python深坑之迭代器和生成器](https://blog.taohuawu.club/python-iterator-generator)
 * [世界名画陈列馆问题(回溯法)](https://blog.taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://blog.taohuawu.club/POJ-1021)
 * [hadoop平台wordcount程序的python实现](https://blog.taohuawu.club/wordcout-in-hadoop-by-python)
@@ -46,7 +47,6 @@
 * [Ubuntu下通过PPA仓库安装JDK](https://blog.taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://blog.taohuawu.club/POJ-1191)
 * [ACM刷题之-POJ-1002(487-3279)](https://blog.taohuawu.club/POJ-1002)
-* [java之hashtable和hashmap](https://blog.taohuawu.club/java-hashmap-hashtable)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://blog.taohuawu.club/POJ-1193)
 * [MapReduce实现自定义二次排序](https://blog.taohuawu.club/mapreduce-customized-secondary-sort)
 * [ACM刷题之-POJ-1011(Sticks)](https://blog.taohuawu.club/POJ-1011)
