@@ -1,15 +1,17 @@
-<p align="center"><img alt="潘建锋的编程札记" src="https://taohuawu.club/icons/logo.png"></p><h2 align="center">
-潘建锋的编程札记
+<p align="center"><img alt="潘少的BLOG" src="https://taohuawu.club/icons/logo.png"></p><h2 align="center">
+潘少的BLOG
 </h2>
 
-<h4 align="center">玻璃晴朗 橘子辉煌</h4>
-<p align="center"><a title="潘建锋的编程札记" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">潘建锋的编程札记</h4>
+<p align="center"><a title="潘少的BLOG" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/repo-size/panjf2000/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/panjf2000/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [有哪些可称为「神作」的网络小说？](https://taohuawu.club/internet-novels-recommendation)
+* [申请友链](https://taohuawu.club/application-for-blogroll)
 * [我在 GitHub 上的开源作品](https://taohuawu.club/my-github-repos)
 * [Linux IO模式及 select、poll、epoll详解](https://taohuawu.club/linux-io-select-poll-epoll)
 * [次时代Java编程(一) Java里的协程](https://taohuawu.club/java-coroutine-quasar)
@@ -28,8 +30,6 @@
 * [精品国漫荟萃之3D动画篇](https://taohuawu.club/chinese-3d-animation)
 * [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
 * [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
-* [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
-* [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 
 ### 热门
 
@@ -37,10 +37,12 @@
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
-* [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
+* [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
+* [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 * [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
+* [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
@@ -51,8 +53,6 @@
 * [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
 * [ACM刷题之-POJ-1011(Sticks)](https://taohuawu.club/POJ-1011)
 * [ACM刷题之-POJ-3333(Co-workers from Hell)](https://taohuawu.club/co-workers-from-hell)
-* [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
-* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 
 ### 热议
 
@@ -61,8 +61,10 @@
 * [ACM刷题之-POJ-1192(最优连通子集)](https://taohuawu.club/POJ-1192)
 * [ACM刷题之-POJ-1405(Heritage)](https://taohuawu.club/POJ-1405)
 * [ACM刷题之-POJ-3006(Dirichlet's Theorem on Arithmetic Progre)](https://taohuawu.club/POJ-3006)
+* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 * [ACM刷题之-POJ-2192(Zipper)](https://taohuawu.club/POJ-2192)
 * [ACM刷题之-POJ-1396(Simple Arithmetics)](https://taohuawu.club/POJ-1396)
+* [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
 * [ACM刷题之-POJ-1014(Dividing)](https://taohuawu.club/POJ-1014)
 
 ---
