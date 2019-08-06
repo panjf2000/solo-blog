@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [后会有期](https://taohuawu.club/see-you-again)
 * [有哪些可称为「神作」的网络小说？](https://taohuawu.club/internet-novels-recommendation)
 * [申请友链](https://taohuawu.club/application-for-blogroll)
 * [我在 GitHub 上的开源作品](https://taohuawu.club/my-github-repos)
@@ -29,7 +30,6 @@
 * [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
 * [精品国漫荟萃之3D动画篇](https://taohuawu.club/chinese-3d-animation)
 * [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
-* [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
 
 ### 热门
 
@@ -39,6 +39,7 @@
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
+* [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
 * [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
 * [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 * [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
@@ -52,16 +53,16 @@
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 * [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
 * [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
-* [ACM刷题之-POJ-3333(Co-workers from Hell)](https://taohuawu.club/co-workers-from-hell)
 
 ### 热议
 
-* [ACM刷题之-POJ-3749(破译密码)](https://taohuawu.club/POJ-3749)
+* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 * [ACM刷题之-POJ-1185(炮兵阵地)](https://taohuawu.club/POJ-1185)
 * [ACM刷题之-POJ-1192(最优连通子集)](https://taohuawu.club/POJ-1192)
 * [ACM刷题之-POJ-1405(Heritage)](https://taohuawu.club/POJ-1405)
 * [ACM刷题之-POJ-3006(Dirichlet's Theorem on Arithmetic Progre)](https://taohuawu.club/POJ-3006)
-* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
+* [ACM刷题之-POJ-3333(Co-workers from Hell)](https://taohuawu.club/co-workers-from-hell)
+* [ACM刷题之-POJ-3749(破译密码)](https://taohuawu.club/POJ-3749)
 * [ACM刷题之-POJ-2192(Zipper)](https://taohuawu.club/POJ-2192)
 * [ACM刷题之-POJ-1396(Simple Arithmetics)](https://taohuawu.club/POJ-1396)
 * [ACM刷题之-POJ-1014(Dividing)](https://taohuawu.club/POJ-1014)
