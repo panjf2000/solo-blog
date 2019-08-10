@@ -2,7 +2,7 @@
 潘少的 BLOG
 </h2>
 
-<h4 align="center">潘建锋的编程札记</h4>
+<h4 align="center">大好河山可骑驴</h4>
 <p align="center"><a title="潘少的 BLOG" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/repo-size/panjf2000/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我的书单](https://taohuawu.club/reading-list)
 * [后会有期](https://taohuawu.club/see-you-again)
 * [有哪些可称为「神作」的网络小说？](https://taohuawu.club/internet-novels-recommendation)
 * [申请友链](https://taohuawu.club/application-for-blogroll)
@@ -29,11 +30,11 @@
 * [协同过滤Item-based算法实现电影推荐系统](https://taohuawu.club/item-based-movie-recommendation)
 * [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
 * [精品国漫荟萃之3D动画篇](https://taohuawu.club/chinese-3d-animation)
-* [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
 
 ### 热门
 
 * [关于](https://taohuawu.club/about)
+* [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
@@ -47,17 +48,17 @@
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
-* [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
+* [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 * [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
-* [ACM刷题之-POJ-1192(最优连通子集)](https://taohuawu.club/POJ-1192)
 
 ### 热议
 
 * [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 * [ACM刷题之-POJ-1185(炮兵阵地)](https://taohuawu.club/POJ-1185)
+* [ACM刷题之-POJ-1192(最优连通子集)](https://taohuawu.club/POJ-1192)
 * [ACM刷题之-POJ-1405(Heritage)](https://taohuawu.club/POJ-1405)
 * [ACM刷题之-POJ-3006(Dirichlet's Theorem on Arithmetic Progre)](https://taohuawu.club/POJ-3006)
 * [ACM刷题之-POJ-3333(Co-workers from Hell)](https://taohuawu.club/co-workers-from-hell)
