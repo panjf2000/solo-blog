@@ -2,7 +2,7 @@
 潘少的 BLOG
 </h2>
 
-<h4 align="center">大好河山可骑驴</h4>
+<h4 align="center">诗酒趁年华</h4>
 <p align="center"><a title="潘少的 BLOG" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/repo-size/panjf2000/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
 * [我的书单](https://taohuawu.club/reading-list)
 * [后会有期](https://taohuawu.club/see-you-again)
 * [有哪些可称为「神作」的网络小说？](https://taohuawu.club/internet-novels-recommendation)
@@ -29,11 +30,11 @@
 * [深入golang之---goroutine并发控制与通信](https://taohuawu.club/goroutine-concurrency-control-and-communication)
 * [协同过滤Item-based算法实现电影推荐系统](https://taohuawu.club/item-based-movie-recommendation)
 * [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
-* [精品国漫荟萃之3D动画篇](https://taohuawu.club/chinese-3d-animation)
 
 ### 热门
 
 * [关于](https://taohuawu.club/about)
+* [精品国漫荟萃之3D动画篇](https://taohuawu.club/chinese-3d-animation)
 * [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
@@ -52,7 +53,6 @@
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
-* [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
 
 ### 热议
 
@@ -68,6 +68,7 @@
 * [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
 * [ACM刷题之-POJ-1014(Dividing)](https://taohuawu.club/POJ-1014)
 * [ACM刷题之-POJ-1011(Sticks)](https://taohuawu.club/POJ-1011)
+* [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
 
 ---
 
