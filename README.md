@@ -15,7 +15,7 @@
 * [后会有期](https://taohuawu.club/see-you-again)
 * [有哪些可称为「神作」的网络小说？](https://taohuawu.club/internet-novels-recommendation)
 * [申请友链](https://taohuawu.club/application-for-blogroll)
-* [我在 GitHub 上的开源作品](https://taohuawu.club/my-github-repos)
+* [我写的一些小玩意儿](https://taohuawu.club/my-github-repos)
 * [Linux IO模式及 select、poll、epoll详解](https://taohuawu.club/linux-io-select-poll-epoll)
 * [次时代Java编程(一) Java里的协程](https://taohuawu.club/java-coroutine-quasar)
 * [Lucene构建个人搜索引擎解析](https://taohuawu.club/lucene-search-engine)
@@ -49,8 +49,8 @@
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
-* [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
+* [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 
