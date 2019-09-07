@@ -39,8 +39,8 @@
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
-* [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
+* [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
 * [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
 * [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
@@ -51,8 +51,8 @@
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
-* [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
+* [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 
 ### 热议
 
