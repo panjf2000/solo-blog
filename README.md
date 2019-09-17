@@ -51,7 +51,7 @@
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
-* [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
+* [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 
 ### 热议
@@ -68,7 +68,7 @@
 * [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
 * [ACM刷题之-POJ-1014(Dividing)](https://taohuawu.club/POJ-1014)
 * [ACM刷题之-POJ-1011(Sticks)](https://taohuawu.club/POJ-1011)
-* [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
+* [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
 
 ---
