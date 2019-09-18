@@ -5,7 +5,7 @@
 <h4 align="center">潘建锋的编程札记</h4>
 <p align="center"><a title="潘少的 BLOG" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/repo-size/panjf2000/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/panjf2000/solo-blog.svg"></a></p>
 
 ### 最新
@@ -39,8 +39,8 @@
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
-* [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
+* [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
 * [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
 * [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
@@ -49,8 +49,8 @@
 * [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
-* [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
+* [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 
