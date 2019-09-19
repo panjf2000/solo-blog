@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [gnet: 轻量级且高性能的 Golang 网络库](https://taohuawu.club/go-event-loop-networking-library-gnet)
+* [gnet: 一个轻量级且高性能的 Golang 网络库](https://taohuawu.club/go-event-loop-networking-library-gnet)
 * [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
 * [我的书单](https://taohuawu.club/reading-list)
 * [后会有期](https://taohuawu.club/see-you-again)
@@ -50,8 +50,8 @@
 * [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
-* [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
+* [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 
 ### 热议
