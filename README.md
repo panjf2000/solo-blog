@@ -46,12 +46,12 @@
 * [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
 * [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
-* [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
+* [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
-* [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
+* [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 
 ### 热议
