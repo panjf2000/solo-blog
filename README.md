@@ -5,7 +5,7 @@
 <h4 align="center">鲜衣怒马提银枪，一日看尽长安花，此间少年。</h4>
 <p align="center"><a title="潘少" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/repo-size/panjf2000/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/panjf2000/solo-blog.svg"></a></p>
 
 ### 最新
@@ -47,8 +47,8 @@
 * [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
-* [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
+* [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
