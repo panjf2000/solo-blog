@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [开发者福利：免费获取 JetBrains 全家桶](https://taohuawu.club/jetbrains-open-source-license-for-free)
 * [gnet: 一个轻量级且高性能的 Go 网络库](https://taohuawu.club/go-event-loop-networking-library-gnet)
 * [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
 * [我的书单](https://taohuawu.club/reading-list)
@@ -29,7 +30,6 @@
 * [Goroutine 并发调度模型深度解析之手撸一个高性能协程池](https://taohuawu.club/high-performance-implementation-of-goroutine-pool)
 * [tornado配合celery及rabbitmq实现web request异步非阻塞](https://taohuawu.club/python-tornado-rabbitmq-asynchronous-non-blocking)
 * [深入golang之---goroutine并发控制与通信](https://taohuawu.club/goroutine-concurrency-control-and-communication)
-* [协同过滤Item-based算法实现电影推荐系统](https://taohuawu.club/item-based-movie-recommendation)
 
 ### 热门
 
@@ -38,6 +38,7 @@
 * [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
+* [协同过滤Item-based算法实现电影推荐系统](https://taohuawu.club/item-based-movie-recommendation)
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
@@ -52,7 +53,6 @@
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
 * [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
-* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 
 ### 热议
 
@@ -63,6 +63,7 @@
 * [ACM刷题之-POJ-3333(Co-workers from Hell)](https://taohuawu.club/co-workers-from-hell)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [ACM刷题之-POJ-3749(破译密码)](https://taohuawu.club/POJ-3749)
+* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 * [ACM刷题之-POJ-2192(Zipper)](https://taohuawu.club/POJ-2192)
 * [ACM刷题之-POJ-1396(Simple Arithmetics)](https://taohuawu.club/POJ-1396)
 * [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
