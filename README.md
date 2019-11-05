@@ -43,8 +43,8 @@
 * [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
 * [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
-* [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
 * [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
+* [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
 * [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
 * [ACM刷题之-内存分配（POJ-1193 ）](https://taohuawu.club/POJ-1193)
@@ -52,7 +52,7 @@
 * [世界名画陈列馆问题(回溯法)](https://taohuawu.club/problem-of-world-renowned-painting-exhibition-room)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
-* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
+* [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 
 ### 热议
 
@@ -63,6 +63,7 @@
 * [ACM刷题之-POJ-3333(Co-workers from Hell)](https://taohuawu.club/co-workers-from-hell)
 * [ACM刷题之-POJ-3662(Telephone Lines)](https://taohuawu.club/POJ-3662)
 * [ACM刷题之-POJ-3749(破译密码)](https://taohuawu.club/POJ-3749)
+* [ACM刷题之-2015微软编程之美资格赛](https://taohuawu.club/microsoft-programming-venues-problems)
 * [ACM刷题之-POJ-2192(Zipper)](https://taohuawu.club/POJ-2192)
 * [ACM刷题之-POJ-1396(Simple Arithmetics)](https://taohuawu.club/POJ-1396)
 * [ACM刷题之-POJ-1061(青蛙的约会)](https://taohuawu.club/POJ-1061)
@@ -70,7 +71,6 @@
 * [ACM刷题之-POJ-1011(Sticks)](https://taohuawu.club/POJ-1011)
 * [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
-* [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 
 ---
 
