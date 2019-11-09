@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Go netpoll I/O 多路复用构建原生网络模型之源码深度解析](https://taohuawu.club/go-netpoll-io-multiplexing-reactor)
 * [开发者福利：免费获取 JetBrains 全家桶](https://taohuawu.club/jetbrains-open-source-license-for-free)
 * [gnet: 一个轻量级且高性能的 Go 网络库](https://taohuawu.club/go-event-loop-networking-library-gnet)
 * [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
@@ -29,12 +30,12 @@
 * [周杰伦的《烟花易冷》和《洛阳伽蓝记》的前世今生](https://taohuawu.club/yan-hua-yi-leng)
 * [Goroutine 并发调度模型深度解析之手撸一个高性能协程池](https://taohuawu.club/high-performance-implementation-of-goroutine-pool)
 * [tornado配合celery及rabbitmq实现web request异步非阻塞](https://taohuawu.club/python-tornado-rabbitmq-asynchronous-non-blocking)
-* [深入golang之---goroutine并发控制与通信](https://taohuawu.club/goroutine-concurrency-control-and-communication)
 
 ### 热门
 
 * [关于](https://taohuawu.club/about)
 * [精品国漫荟萃之3D动画篇](https://taohuawu.club/chinese-3d-animation)
+* [深入golang之---goroutine并发控制与通信](https://taohuawu.club/goroutine-concurrency-control-and-communication)
 * [精品国漫荟萃之2D动画篇](https://taohuawu.club/chinese-2d-animation)
 * [java之hashtable和hashmap](https://taohuawu.club/java-hashmap-hashtable)
 * [python深坑之迭代器和生成器](https://taohuawu.club/python-iterator-generator)
@@ -52,7 +53,6 @@
 * [64位Ubuntu14.04下安装hadoop2.6单机配置和伪分布配置详解](https://taohuawu.club/hadoop-installation-in-ubuntu)
 * [ACM刷题之-POJ-1021(2D-Nim)](https://taohuawu.club/POJ-1021)
 * [ACM刷题之-POJ-1191(棋盘分割)](https://taohuawu.club/POJ-1191)
-* [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 
 ### 热议
 
@@ -71,6 +71,7 @@
 * [ACM刷题之-POJ-1011(Sticks)](https://taohuawu.club/POJ-1011)
 * [ACM刷题之-POJ-1002(487-3279)](https://taohuawu.club/POJ-1002)
 * [MapReduce实现自定义二次排序](https://taohuawu.club/mapreduce-customized-secondary-sort)
+* [Ubuntu下通过PPA仓库安装JDK](https://taohuawu.club/install-jdk-via-ppa-in-ubuntu)
 
 ---
 
