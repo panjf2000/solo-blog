@@ -12,7 +12,7 @@
 
 * [Go netpoll I/O 多路复用构建原生网络模型之源码深度解析](https://taohuawu.club/go-netpoll-io-multiplexing-reactor)
 * [开发者福利：免费获取 JetBrains 全家桶](https://taohuawu.club/jetbrains-open-source-license-for-free)
-* [gnet: 一个轻量级且高性能的 Go 网络库](https://taohuawu.club/go-event-loop-networking-library-gnet)
+* [gnet: 一个轻量级且高性能的 Go 网络框架](https://taohuawu.club/go-event-loop-networking-library-gnet)
 * [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
 * [我的书单](https://taohuawu.club/reading-list)
 * [后会有期](https://taohuawu.club/see-you-again)
