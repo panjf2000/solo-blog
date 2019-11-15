@@ -22,7 +22,7 @@
 * [Linux IO模式及 select、poll、epoll详解](https://taohuawu.club/linux-io-select-poll-epoll)
 * [次时代Java编程(一) Java里的协程](https://taohuawu.club/java-coroutine-quasar)
 * [Lucene构建个人搜索引擎解析](https://taohuawu.club/lucene-search-engine)
-* [Spark的分区机制的应用及PageRank算法的实现](https://taohuawu.club/spark-partition-pagerank)
+* [【翻译】Spark的分区机制的应用及PageRank算法的实现](https://taohuawu.club/spark-partition-pagerank)
 * [MQ对比之RabbitMQ & Redis](https://taohuawu.club/mq-rabbit-redis)
 * [NoSQL数据库的分布式算法](https://taohuawu.club/nosql-distributed-algorithm)
 * [Java I/O模型从BIO到NIO和Reactor模式解析](https://taohuawu.club/java-nio)
