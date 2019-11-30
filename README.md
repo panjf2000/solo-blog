@@ -5,8 +5,8 @@
 <h4 align="center">鲜衣怒马提银枪，一日看尽长安花，此间少年。</h4>
 <p align="center"><a title="潘少" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/last-commit/panjf2000/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/panjf2000/solo-blog"><img src="https://img.shields.io/github/repo-size/panjf2000/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/panjf2000/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/panjf2000/solo-blog.svg"></a></p>
 
 ### 最新
 
@@ -43,8 +43,8 @@
 * [hadoop下基于mapreduce实现pagerank算法](https://taohuawu.club/pagerank-algorithm-via-hadoop-mapreduce)
 * [用Dijkstra算法求解无向图的最短路径](https://taohuawu.club/solve-shortest-path-via-dijkstra-algorithm)
 * [Kmeans算法解析及基于MapReduce的并行化实现](https://taohuawu.club/kmeans-algorithm-via-mapreduce)
-* [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
 * [数据库内部排序算法之两阶段多路归并排序算法实现](https://taohuawu.club/database-sort-algorithm)
+* [读史时哪些故事让你动容？](https://taohuawu.club/du-shi)
 * [网络爬虫详解与python实现](https://taohuawu.club/introduction-of-web-spider-by-python)
 * [mapreduce之数据去重和数据排序实例](https://taohuawu.club/mapreduce-de-duplication-and-sort)
 * [hadoop平台wordcount程序的python实现](https://taohuawu.club/wordcout-in-hadoop-by-python)
@@ -75,4 +75,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
